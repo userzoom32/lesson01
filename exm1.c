@@ -7,6 +7,7 @@ main()
 	setlocale(LC_ALL,"rus");
     printf("the first line\n");
     printf("the second line\n");
+    printf("the third line\n");
     
 	getch();
 }
